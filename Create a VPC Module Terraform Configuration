@@ -1,0 +1,4 @@
+- c1-versions.tf
+- c2-generic-variables.tf
+- c3-vpc.tf
+- [Terraform AWS VPC Module](https://registry.terraform.io/modules/terraform-aws-modules/vpc/aws/latest)
